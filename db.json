@@ -1,0 +1,46 @@
+{
+  "coaches": [
+    {
+      "name": "Brandon Santana",
+      "password": "password1",
+      "dob": "1998-09-23",
+      "gender": "Male",
+      "phNum": 3165530854,
+      "speciality": "cardio and endurance",
+      "id": 1
+    },
+    {
+      "name": "Kristen Stinnett",
+      "password": "password1",
+      "dob": "1996-08-10",
+      "gender": "Female",
+      "phNum": 3165530855,
+      "speciality": "muscular training",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "Brandon Santana",
+      "password": "password1",
+      "phNum": 3162529687,
+      "email": "bubblebutt199891@gmail.com",
+      "dob": "1998-09-21",
+      "zipcode": 67218,
+      "city": "Wichita",
+      "state": "kansas",
+      "country": "United States",
+      "gender": "Male",
+      "id": 1
+    }
+  ],
+  "appointments": [
+    {
+      "userId": 1,
+      "coachId": 1,
+      "date": "2022-01-23",
+      "slot": "2PM to 3PM",
+      "id": 1
+    }
+  ]
+}
